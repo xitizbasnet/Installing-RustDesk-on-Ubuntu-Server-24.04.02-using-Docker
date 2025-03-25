@@ -91,9 +91,9 @@ services:
 ```
 
 ### Save and exit the editor:
-- Press **Ctrl + X** to exit.
-- Press **Y** to confirm changes.
+- Press **Ctrl + O** to write.
 - Press **Enter** to save the file.
+- Press **X** to exit.
 
 ---
 
